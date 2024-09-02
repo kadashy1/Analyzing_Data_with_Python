@@ -1,2 +1,2 @@
-# data_science_projects
-A place to put my data science projects and files
+# Analyzing Data with Python
+Labs and final project of Analyzing data with python course
